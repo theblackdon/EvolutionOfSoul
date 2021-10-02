@@ -1,0 +1,3 @@
+[submodule "frontend/--force"]
+	path = frontend/--force
+	url = D:/_code/evolutionofsoul/frontend/evolutionofsoul
